@@ -3,8 +3,17 @@ RENCANA MENDAPATKAN SERTIFIKASI CCP
 - Belajar memahami tentang cloud computing
   * memahami tentang service yang ada pada AWS
   * hands-on pada service-service utama pada AWS
+   ^Benstalk
+   ^Auto-Scaling
 - Belajar memahami tentang networking
   * memahami tentang subnneting 
+  * memahami dasar dari routing
+   ^NAT
+  * memahami service VPC AWS
 - Belajar memahami tentang security managemnt
 - Belajar memahami tentang programmming Phyton
+  ^long
+  ^float
+  ^integer
+  ^String
 - Belajar memahami tentang databases
