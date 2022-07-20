@@ -4,6 +4,7 @@ RENCANA MENDAPATKAN SERTIFIKASI CCP
   * memahami tentang service yang ada pada AWS
   * hands-on pada service-service utama pada AWS
 - Belajar memahami tentang networking
+  * memahami tentang subnneting 
 - Belajar memahami tentang security managemnt
 - Belajar memahami tentang programmming Phyton
 - Belajar memahami tentang databases
